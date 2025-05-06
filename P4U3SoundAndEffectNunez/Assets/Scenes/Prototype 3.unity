@@ -457,7 +457,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf2dba6dd01029e49a683df0d08ac734, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  jumpForce: 750
+  jumpForce: 650
   gravityModifier: 2
   isOnGround: 1
   gameOver: 0
@@ -568,7 +568,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0703a1849c2c89b4db4568688faf0c5f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.56
+      value: -4.6
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 0703a1849c2c89b4db4568688faf0c5f, type: 3}
       propertyPath: m_LocalPosition.y
